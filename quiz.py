@@ -7,8 +7,8 @@ from tkinter import messagebox
 
 ARCHIVO = os.path.join(os.path.dirname(os.path.abspath(__file__)), "preguntas.json")
 NUM_PREGUNTAS = 5
-VIDAS_INICIALES = 4
-PUNTOS_POR_ACIERTO = 25
+VIDAS_INICIALES = 3
+PUNTOS_POR_ACIERTO = 10
 FUENTE_PREGUNTA = ("Times New Roman", 20)
 COLOR_TEXTO = "black"
 def cargar_preguntas():
