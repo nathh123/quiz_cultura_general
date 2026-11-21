@@ -1,0 +1,11 @@
+[
+  {"pregunta": "¿Quién pintó la Mona Lisa?", "opciones": ["Leonardo da Vinci", "Miguel Ángel", "Rafael", "Donatello"], "correcta": 0},
+  {"pregunta": "¿En qué año llegó el hombre a la Luna?", "opciones": ["1969", "1970", "1968", "1972"], "correcta": 0},
+  {"pregunta": "¿Qué hueso protege el cerebro?", "opciones": ["Cráneo", "Esternón", "Pelvis", "Costillas"], "correcta": 0},
+  {"pregunta": "¿Cuál es el libro más vendido de la historia?", "opciones": ["La Biblia", "El Quijote", "El Señor de los Anillos", "Harry Potter"], "correcta": 0},
+  {"pregunta": "¿Cuál es el planeta más grande del sistema solar?", "opciones": ["Marte", "Júpiter", "Saturno", "Neptuno"], "correcta": 1},
+  {"pregunta": "¿Quién escribió 'Cien años de soledad'?", "opciones": ["Mario Vargas Llosa", "Octavio Paz", "Julio Cortázar", "Gabriel García Márquez"], "correcta": 3},
+  {"pregunta": "¿Cuál es el océano más grande del mundo?", "opciones": ["Atlántico", "Índico", "Pacífico", "Ártico"], "correcta": 2},
+  {"pregunta": "¿Cuántos continentes hay en el mundo?", "opciones": ["5", "6", "7", "8"], "correcta": 2},
+  {"pregunta": "¿Qué gas necesitan las plantas para la fotosíntesis?", "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Hidrógeno"], "correcta": 1}
+]
